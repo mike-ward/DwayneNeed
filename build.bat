@@ -1,0 +1,1 @@
+msbuild microsoft.dwayneneed\microsoft.dwayneneed.csproj /t:Rebuild /p:Configuration=Release

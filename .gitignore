@@ -9,3 +9,6 @@ Debug
 Release
 *.opensdf
 *.sdf
+*.ncrunchproject
+*.ncrunchsolution
+_NCrunch_Microsoft.DwayneNeed/
